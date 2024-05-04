@@ -1,7 +1,7 @@
 {
   "name": "@nailiable/eslint-config",
   "type": "module",
-  "version": "2.16.2",
+  "version": "2.16.3",
   "packageManager": "pnpm@9.0.6",
   "description": "Naily's ESLint config",
   "author": "Naily <zero@naily.cc> (https://github.com/nailiable/)",
@@ -15,6 +15,9 @@
       "import": "./dist/index.js",
       "require": "./dist/index.cjs"
     }
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
