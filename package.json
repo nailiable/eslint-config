@@ -1,7 +1,7 @@
 {
   "name": "@nailiable/eslint-config",
   "type": "module",
-  "version": "2.16.1",
+  "version": "2.16.2",
   "packageManager": "pnpm@9.0.6",
   "description": "Naily's ESLint config",
   "author": "Naily <zero@naily.cc> (https://github.com/nailiable/)",
