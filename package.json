@@ -1,5 +1,5 @@
 {
-  "name": "@antfu/eslint-config",
+  "name": "@nailiable/eslint-config",
   "type": "module",
   "version": "2.16.1",
   "packageManager": "pnpm@9.0.6",
