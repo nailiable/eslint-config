@@ -1,8 +1,8 @@
 // @ts-expect-error missing types
 import styleMigrate from '@stylistic/eslint-plugin-migrate'
-import { antfu } from './src'
+import { naily } from './src'
 
-export default antfu(
+export default naily(
   {
     vue: true,
     react: true,

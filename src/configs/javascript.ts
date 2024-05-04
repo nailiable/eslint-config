@@ -58,7 +58,7 @@ export async function javascript(
         'no-class-assign': 'error',
         'no-compare-neg-zero': 'error',
         'no-cond-assign': ['error', 'always'],
-        'no-console': ['error', { allow: ['warn', 'error'] }],
+        // 'no-console': ['warn', { allow: ['warn', 'error'] }],
         'no-const-assign': 'error',
         'no-control-regex': 'error',
         'no-debugger': 'error',
@@ -97,7 +97,7 @@ export async function javascript(
         'no-octal-escape': 'error',
         'no-proto': 'error',
         'no-prototype-builtins': 'error',
-        'no-redeclare': ['error', { builtinGlobals: false }],
+        // 'no-redeclare': ['error', { builtinGlobals: false }],
         'no-regex-spaces': 'error',
         'no-restricted-globals': [
           'error',

@@ -34,6 +34,7 @@ export async function typescript(
     'ts/no-for-in-array': 'error',
     'ts/no-implied-eval': 'error',
     'ts/no-misused-promises': 'error',
+    'ts/no-namespace': 'off',
     'ts/no-throw-literal': 'error',
     'ts/no-unnecessary-type-assertion': 'error',
     'ts/no-unsafe-argument': 'error',
